@@ -32,7 +32,7 @@ global.myweb = '❤LOVE FROM OFFICIAL RUP❤'
 global.packname = 'RUP❤AHANA-V3'
 global.author = '👅😎OFFICIAL-RUP❤👀'
 global.sessionName = 'session'
-global.prefa = [''🙂'!'🥵'🤬'❤'🐦'😘'🐤'🐧'🗿'👀']
+global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
