@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918617845264']
-global.premium = ['918617845264']
-global.ownernomer = '918617845264'
-global.ownername = '👅😎OFFICIAL-RUP❤👀'
-global.botname = 'RUP❤AHANA-V4'
-global.footer = '©RUP-OFFICIAL.INC.'
-global.ig = 'https://github.com/Official-Rup'
+global.owner = ['917001830097']
+global.premium = ['917001830097']
+global.ownernomer = '917001830097'
+global.ownername = '👅😎AYAN❤👀'
+global.botname = 'AYAN😈-V4'
+global.footer = '©AYAN-OFFICIAL.INC.'
+global.ig = 'https://github.com/Ayan-Official'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/Official-Rup/RUP-AHANA-V3'
-global.myweb = '❤LOVE FROM OFFICIAL RUP❤'
-global.packname = 'RUP❤AHANA-V4'
-global.author = '👅😎OFFICIAL-RUP❤👀'
+global.sc = 'https://github.com/Ayan-Official/AYAN-V3'
+global.myweb = '❤LOVE FROM AYAN ❤'
+global.packname = 'AYAN-V4'
+global.author = '👅😎AYAN-OFFICIAL❤👀'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
